@@ -36,7 +36,7 @@ def tampilkan_data(data_dict):
     for nim in sorted(data_dict):
         nama = data_dict [nim]["nama"]
         nilai = data_dict [nim]["nilai"]
-        print(f"{nim:10} | {nama:<12}|{nilai:>5}")
+        print(f"{nim:10} | {nama:<12} |{nilai:>5}")
         
 # tampilkan_data(buka_data)
 
@@ -118,7 +118,7 @@ def simpan_data(path,data_dict):
 
 # =======================================
 # Praktikum 2 : konsep ADT dan file handling
-# Latihan 4 : Membuat fungsi Menu
+# Latihan 6 : Membuat fungsi Menu
 # =======================================
 
 def main():
