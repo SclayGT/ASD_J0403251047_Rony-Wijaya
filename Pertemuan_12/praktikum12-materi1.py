@@ -1,9 +1,3 @@
-#==============================================
-#Nama  : Pratama Fahriel Sanjaya
-#NIM   : J0403251053
-#Kelas : TPL B2
-#==============================================
-
 # Mengimpor modul heapq untuk mengelola antrean prioritas (min-heap)
 import heapq 
 

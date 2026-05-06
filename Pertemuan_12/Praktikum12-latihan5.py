@@ -1,10 +1,3 @@
-#==============================================
-#Nama  : Pratama Fahriel Sanjaya
-#NIM   : J0403251053
-#Kelas : TPL B2
-# Praktikum 12 - Graph II: Shortest Path
-#==============================================
-
 # ==========================================================
 # Latihan 5: Studi Kasus Shortest Path Antar Kota
 # Algoritma: Dijkstra

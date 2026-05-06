@@ -1,9 +1,3 @@
-#==============================================
-#Nama  : Pratama Fahriel Sanjaya
-#NIM   : J0403251053
-#Kelas : TPL B2
-#==============================================
-
 # Fungsi Bellman-Ford untuk mencari jarak terpendek dari node awal ke semua node
 # Parameter: graph = graf/jaringan yang dipakai, start = node mula-mula
 def bellman_ford(graph, start): 
